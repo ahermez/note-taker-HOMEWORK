@@ -42,8 +42,8 @@ To view the content of an existing note, click on its title in the left-hand col
 To delete a note, click on the "Delete" icon next to the note in the left-hand column.
 
 ## Images
-images\Screenshot (380).png
-images\Screenshot (381).png
+![project main page] (images\Screenshot (380).png)
+![project note taking page] (images\Screenshot (381).png)
 
 ## Links
  [Heroku] (https://hidden-brook-77102-08b4563abaa2.herokuapp.com/)    
