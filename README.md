@@ -28,7 +28,7 @@ Clone the repository to local machine:
     npm install
     SQL
     Heroku
-Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3001 in your preferred browser. The Note Taker app is live on Heroku for you to use as well.
+To use the application locally, run node server.js in your CLI, and then open http://localhost:3001 in your preferred browser. The Note Taker app is live on Heroku for you to use as well.
 
 ## Usage
 Start the application. Run npm install to install all dependencies. To use the application locally, run node server.js in your CLI, and then open http://localhost:3001 in your preferred browser. The Note Taker app is live on Heroku for you to use as well.
