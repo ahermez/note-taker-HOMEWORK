@@ -41,19 +41,24 @@ The newly created note will be saved and appear in the left-hand column with oth
 To view the content of an existing note, click on its title in the left-hand column. The note's details will be displayed in the right-hand column.
 To delete a note, click on the "Delete" icon next to the note in the left-hand column.
 
-## contributors
-UCB tutoring Dept.
-Nathan
-Rene
+## Images
+images\Screenshot (380).png
+images\Screenshot (381).png
 
 ## Links
-[project page] note taker [Heroku page] Heroku    [Github Page] Github
+ [Heroku] (https://hidden-brook-77102-08b4563abaa2.herokuapp.com/)    
+ [Github] (https://github.com/ahermez/note-taker-HOMEWORK)
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions or feedback regarding the Note-Taker-Homework project, please feel free to reach out to us at myemail@google.com.
+
+## contributors
+UCB tutoring Dept.
+Nathan
+Rene
 
 
 
