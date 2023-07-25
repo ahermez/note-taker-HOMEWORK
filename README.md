@@ -47,7 +47,7 @@ Nathan
 Rene
 
 ## Links
-[project page] note taker [Heroku page] Github Page
+[project page] note taker [Heroku page] Heroku    [Github Page] Github
 
 ## License
 This project is licensed under the MIT License.
