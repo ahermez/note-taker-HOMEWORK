@@ -1,11 +1,9 @@
-## Note Taker App
+## Title Note Taker App
 
 ## Description
 The Note Taker is an application provides a simple and intuitive user interface, making it easy for users to create, save, view, and delete notes as needed. With this app, users can organize their thoughts and keep track of tasks efficiently.
 
 The application utilizes an Express.js back end to handle data storage and retrieval, using a JSON file to store the notes. The front-end of the application has already been developed, and it's your task to build the back end, integrate it with the front end, and deploy the entire application to Heroku.
-
-
 
 ## Features
 Create new notes by providing a title and content.
@@ -42,12 +40,19 @@ To view the content of an existing note, click on its title in the left-hand col
 To delete a note, click on the "Delete" icon next to the note in the left-hand column.
 
 ## Images
-![project main page] (images\Screenshot (380).png)
-![project note taking page] (images\Screenshot (381).png)
+<!-- (images\Screenshot (380).png) -->
+<figure>
+  <img src="images\Screenshot (380).png" alt="Screenshot of Main Page" style="width:100%"> <figcaption><i>Main Page</i></figcaption>
+  </figure>
+<!-- (images\Screenshot (381).png) -->
+<figure>
+  <img src="images\Screenshot (381).png" alt="Screenshot of Note Taker Page" style="width:100%"> <figcaption><i>Note Taker Page</i></figcaption>
+  </figure>
 
 ## Links
- [Heroku] (https://hidden-brook-77102-08b4563abaa2.herokuapp.com/)    
- [Github] (https://github.com/ahermez/note-taker-HOMEWORK)
+ 
+<a href="https://hidden-brook-77102-08b4563abaa2.herokuapp.com/">Heroku Page</a>    
+<a href="https://github.com/ahermez/note-taker-HOMEWORK">Github Page</a> 
 
 ## License
 This project is licensed under the MIT License.
